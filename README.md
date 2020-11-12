@@ -41,4 +41,4 @@ Answer: Increasing the amplitude of the gaussian perturbation results in a right
 
 Answer: According to my answer above, I see a wider shock when increasing the amplitude of the perturbation. In class we discussed that the shock width is set by viscosity (which we are not including here) and the bulk velocity. In this case, the bulk velocity array depends on f1 and f2, which are set by the gaussian perturbation. Therefore increasing the amplitude impacts the bulk velocity, which impacts the width of the shock.
 
-5. Collaborators: <Alice Curtin> for Problem 3
+5. Collaborators: Alice Curtin for Problem 3
