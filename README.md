@@ -39,7 +39,7 @@ Answer: Increasing the amplitude of the gaussian perturbation results in a right
 
 2) If so, what do you think is setting the width of the shock?
 
-Answer: According to my answer above, I see a wider shock when increasing the amplitude of the perturbation. In class we discussed that the shock width is set by viscosity (which we are not including here) and the bulk velocity. In this case, the bulk velocity array depends on f1 and f2, which are set by the gaussian perturbation. Therefore increasing the amplitude impacts the bulk velocity, which impacts the width of the shock.
+Answer: According to my answer above, I see a wider shock when increasing the amplitude of the perturbation. In class we discussed that the shock width is set by the bulk velocity and viscosity. We do not include viscosity explicitly, but there is a numerical viscosity that arises from discretizing the advection terms. It is easier to see though, that the bulk velocity array directly depends on f1 and f2, which are set by the gaussian perturbation. Therefore increasing the amplitude impacts the bulk velocity, which impacts the width of the shock.
 
 ------------------------------------
 5. Collaborators: Alice Curtin for Problem 3
