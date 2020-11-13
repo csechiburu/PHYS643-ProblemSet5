@@ -30,8 +30,11 @@ To solve the hydro equations we represent the density as "f1" and density times 
 ------------------------------------
 4. Written explanations
 ------------------------------------
+- Problem2.py
 
-Problem3.py
+The left panel, with D=0.1 is close to the case of pure advection. As such, we observe a steep gradient in f. While in the case of D=1.0 diffusion dominates, the evolution is slow, and we observe a smooth gradient that never reaches the pure advection case.
+
+- Problem3.py
 
 1) What happens as you increase the amplitude of the perturbation? Do you see a shock? 
 
